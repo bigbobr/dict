@@ -62,11 +62,11 @@
         <sourceConnection xsi:type="archimate:Connection" id="b6e69d90" source="b22f1456" target="79fb5315" relationship="730658dd"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="e9103bf0" textAlignment="2" archimateElement="7d7bc694">
-        <bounds x="955" y="536"/>
+        <bounds x="955" y="540"/>
         <sourceConnection xsi:type="archimate:Connection" id="362f6c96" source="e9103bf0" target="96117e44" relationship="1eef8313"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="96117e44" textAlignment="2" targetConnections="362f6c96" archimateElement="82426220">
-        <bounds x="583" y="536"/>
+        <bounds x="583" y="540"/>
         <sourceConnection xsi:type="archimate:Connection" id="100e96a6" source="96117e44" target="4a2c4acc" relationship="a456b5e8"/>
         <sourceConnection xsi:type="archimate:Connection" id="8cbb8ba5" source="96117e44" target="24102125" relationship="27d13e92"/>
         <sourceConnection xsi:type="archimate:Connection" id="fc405cce" source="96117e44" target="23e9bb9c" relationship="94cf3000"/>
@@ -78,7 +78,7 @@
         <bounds x="775" y="620" width="120" height="79"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="12113e17" textAlignment="2" archimateElement="fa6533c0">
-        <bounds x="944" y="458"/>
+        <bounds x="955" y="458"/>
         <sourceConnection xsi:type="archimate:Connection" id="2f6d244a" source="12113e17" target="7efc3c1c" relationship="5994808a"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="0359f608" textAlignment="2" archimateElement="755dcb65">
@@ -110,7 +110,7 @@
         <sourceConnection xsi:type="archimate:Connection" id="c84ca592" source="79fb5315" target="4d32127a" relationship="ac944016"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="4d32127a" textAlignment="2" targetConnections="c84ca592" archimateElement="1d1a11c3">
-        <bounds x="219" y="536"/>
+        <bounds x="219" y="540"/>
         <sourceConnection xsi:type="archimate:Connection" id="6d2b3ea5" source="4d32127a" target="4a2c4acc" relationship="cf736893"/>
         <sourceConnection xsi:type="archimate:Connection" id="b67cf831" source="4d32127a" target="23e9bb9c" relationship="e7aca1b3"/>
       </child>
